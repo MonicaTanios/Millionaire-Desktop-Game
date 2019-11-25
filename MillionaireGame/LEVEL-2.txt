@@ -1,0 +1,41 @@
+What is the capital of China?
+Santiago
+#Beijing
+Havana
+None
+
+Which is the largest of all the Deserts?
+Thar
+Kalahari
+Arabian
+#Sahara
+
+On which national flag is there an eagle and a snake?
+China
+#Mexico
+Russia
+France
+
+Fathometer is used to measure
+Earthquakes
+Rainfall
+#Ocean depth
+Sound intensity
+
+Which of the following is the poorest conductor of heat?
+Mercury
+Silver
+Copper
+#Lead
+
+Loudness of sound depends upon ......... of the sound wave.
+Frequency
+#Amplitude
+Wavelength
+Pitch
+
+A ......... is approximately one billion bytes.
+Megabyte
+#Gigabyte
+Terabyte
+None of these
